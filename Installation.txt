@@ -1,0 +1,20 @@
+**Installation through Rise Launcher (Easy) (Windows)**
+
+1: Download this || https://www.mediafire.com/file/k7xt2izv3hrxjd7/files.zip/file then extract it in the folder this file is in and you're good
+
+2: You have installed everything click Start.cmd!
+
+
+**Installation through Minecraft Launcher (Windows, MacOS, Linux)**
+
+1: Download this json,  https://cdn.discordapp.com/attachments/1106568185425170535/1110456823246503976/Rise.json,
+
+2: Rename RiseCompressed.jar to "Rise.jar" same capitalisation
+
+3: Create a folder in .minecraft/versions/, named "Rise", and drag the json, and jar into it.
+
+4: Select the installation in minecraft launcher 
+
+5. In edit installation, paste this into your game directory /Users/Fil/Library/Application Support/minecraft/versions
+
+6. Launch Rise

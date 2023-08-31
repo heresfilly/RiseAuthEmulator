@@ -1,0 +1,1 @@
+Copy "RiseCompressed" from the new Launcher, inside the files folder, and paste it into your old launcher
