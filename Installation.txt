@@ -2,6 +2,8 @@
 
 1: Download this || https://www.mediafire.com/file/k7xt2izv3hrxjd7/files.zip/file then extract it in the folder this file is in and you're good
 
+2: Press Win + R on your keyboard and paste this in "C:\Windows\System32\drivers\etc" then press ENTER, after that open the "hosts" file with visual studio code or just run Notepad as admin, then paste this at the bottom of the file "147.135.211.212     auth.riseclient.com" without the quotation marks.
+
 2: You have installed everything click Start.cmd!
 
 
